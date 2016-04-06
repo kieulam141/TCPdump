@@ -41,10 +41,10 @@ Trong các ví dụ tôi sẽ thêm tùy chọn -c để tiện cho việc theo 
 <img src="http://i.imgur.com/myKohdz.png" />
 
 - b.Thể hiện gói tin với định dạng ASCII
-<img src="http://i.imgur.com/or7VzVB.png" height=50% width=50% />
+<img src="http://i.imgur.com/or7VzVB.png" />
 
 - c.Thể hiện gói tin với định dạng Hex và ASCII
-<img src="http://i.imgur.com/Q8JEBXE.png" height=60% width=50% />
+<img src="http://i.imgur.com/Q8JEBXE.png" />
 
 - d.Show ra những interface có trên hệ thống
 <img src="http://i.imgur.com/v1krrCq.png" />
@@ -54,7 +54,6 @@ Trong các ví dụ tôi sẽ thêm tùy chọn -c để tiện cho việc theo 
 
 - f.Đọc và phân tích các gói tin đã chụp được
 <img src="http://i.imgur.com/2wiHStZ.png" />
-
 
 - g.Hiển thị ip address
 <img src="http://i.imgur.com/x5fHoDj.png" />
