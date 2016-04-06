@@ -47,7 +47,6 @@ Trong các ví dụ tôi sẽ thêm tùy chọn -c để tiện cho việc theo 
 <img src="http://i.imgur.com/Q8JEBXE.png" height=60% weight=50% />
 
 - d.Show ra những interface có trên hệ thống
-
 <img src="http://i.imgur.com/v1krrCq.png" >
 
 - e.Capture và lưu lại thành file .pcap
@@ -57,7 +56,6 @@ Trong các ví dụ tôi sẽ thêm tùy chọn -c để tiện cho việc theo 
 <img src="http://i.imgur.com/2wiHStZ.png" />
 
 - g.Hiển thị ip address
-
 <img src="http://i.imgur.com/x5fHoDj.png" />
 
 - h.Bắt gói tin tcp
